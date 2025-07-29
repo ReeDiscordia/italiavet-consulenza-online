@@ -168,28 +168,7 @@ const Index = () => {
             </div>
 
             {/* WhatsApp Consultation Box */}
-            <div className="mt-8 bg-gradient-to-br from-green-50 to-green-100 border-green-300 border-2 shadow-lg p-6 rounded-lg">
-              <div className="flex items-start gap-6">
-                <div className="flex-1">
-                  <h3 className="text-2xl font-bold text-green-800 mb-4 flex items-center gap-2">⚡ Hai una domanda urgente? Scrivici su WhatsApp per ricevere una risposta rapida dal nostro team veterinario.</h3>
-                  <div className="space-y-2 mb-4">
-                    <p className="text-gray-600 flex items-center gap-2"><span className="text-green-500">✓</span> Puoi inviare foto e video del tuo animale.</p>
-                    <p className="text-gray-600 flex items-center gap-2"><span className="text-green-500">✓</span> Risposta entro poche ore.</p>
-                  </div>
-                  <p className="text-gray-700 mb-4 font-medium">Niente più attese, niente stress. Scrivici ora!</p>
-                  <a href="https://form.jotform.com/251895814889378" target="_blank" rel="noopener noreferrer">
-                    <Button className="w-full bg-green-600 hover:bg-green-700 text-white font-medium py-3 rounded-lg flex items-center justify-center gap-2">
-                      <img src="/lovable-uploads/c936bb02-81f9-4d9b-ba49-3f3113013125.png" alt="WhatsApp" className="w-5 h-5" />
-                      Parla ora con un veterinario – costo 7€
-                    </Button>
-                  </a>
-                  <p className="text-xs text-gray-500 mt-2 text-center">Pagamento sicuro con PayPal, carta di credito o Apple/Google Pay</p>
-                </div>
-                <div className="flex-shrink-0">
-                  
-                </div>
-              </div>
-            </div>
+            
           </div>
           
           {/* Sidebar */}
